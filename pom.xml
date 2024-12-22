@@ -75,6 +75,7 @@
         <module>sootup.report</module>
         <module>sootup.apk.frontend</module>
         <module>sootup.codepropertygraph</module>
+        <module>jimple.transformer</module>
     </modules>
 
     <!-- Shared Configuration -->
