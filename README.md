@@ -1,3 +1,7 @@
+> **About this fork:** it contains my Jimple-to-JVM bytecode transformer, developed for my M.Sc. thesis at Paderborn University, in the [`jimple.transformer`](jimple.transformer) module. It turns Jimple bodies back into JVM bytecode with ASM, including operand-stack management. Evaluation results: [MSThesis](https://github.com/gautam9199/MSThesis). The rest of this repository is the upstream [SootUp](https://github.com/soot-oss/SootUp) project.
+
+---
+
 <p align="center">
 <img width="350px" src="https://github.com/soot-oss/SootUp/blob/develop/docs/img/SootUpLogo.svg">
 </p> 
